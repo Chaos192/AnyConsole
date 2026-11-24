@@ -34,16 +34,24 @@ Nothing from a game is ever distributed: everything game-derived is made on your
   and it does not help you obtain them.
 - A 64-bit Windows, macOS or Linux computer with a GPU that supports Vulkan (or Metal on a Mac).
 
-## Licence
-
-AnyConsole is free for any noncommercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE) with its required notices:
-keep the credit line, and make no money of any kind from it or anything based on it. Selling it, charging for access or features,
-advertising revenue, and asking for or accepting donations, tips, sponsorships or crowdfunding in connection with it are all
-commercial use and are not permitted. See [LICENSE](LICENSE) for the full terms.
-
 ## Community
 
 Questions, help and news: the [AnyConsole Discord](https://discord.gg/8jmS5kJMYA).
+
+## License
+
+AnyConsole is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), with its required notices. In short:
+
+- **Noncommercial only.** You may use, study, change and share it for any noncommercial purpose, keeping the credit line.
+- **No commercial software.** No part of AnyConsole may be incorporated into commercial software, or into any product, service or
+  build that is sold, charged for or monetised in any way. Selling it, charging for access or features, advertising revenue, and
+  asking for or accepting donations, tips, sponsorships or crowdfunding in connection with it are all commercial use and are not
+  permitted.
+- **No relicensing.** AnyConsole is not available under MIT, GPL or any other terms, and nobody but its copyright holder may
+  license it differently. Every copy, fork and derivative stays under the PolyForm Noncommercial License 1.0.0 with its required
+  notices.
+
+See [LICENSE](LICENSE) for the full terms.
 
 ---
 
